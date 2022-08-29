@@ -4,4 +4,5 @@ class Cheese < ApplicationRecord
     "#{name}: $#{price}"
   end
 
+  
 end
